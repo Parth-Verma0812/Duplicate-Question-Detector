@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+distance
+nltk
+fuzzywuzzy
+python-Levenshtein
+beautifulsoup4
