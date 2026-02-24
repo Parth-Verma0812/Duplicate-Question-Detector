@@ -4,5 +4,6 @@ pandas
 distance
 nltk
 fuzzywuzzy
+scikit-learn
 python-Levenshtein
 beautifulsoup4
